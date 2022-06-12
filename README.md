@@ -1,4 +1,4 @@
-# cphython(10325seoul)
+# cpython(10325seoul)
 
 220530- login successful
 
